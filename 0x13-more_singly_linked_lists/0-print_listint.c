@@ -1,5 +1,5 @@
 #include "lists.h"
-/*
+/**
  * print_listint - prints the int data in a list
  * @h: the head pointer to the list
  * Return: number of nodes
